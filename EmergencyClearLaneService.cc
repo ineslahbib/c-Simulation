@@ -5,7 +5,7 @@
 using namespace omnetpp;
 using namespace vanetza;
 
-Define_Module(EmergencyClearLane)
+Define_Module(EmergencyClearLaneService)
 
 void EmergencyClearLaneService::initialize()
 {
